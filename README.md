@@ -2,7 +2,7 @@
 - 👀 I’m interested in crafting my coding in a very artistic way, im also making breakcore at the moment 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on emulators
-- 📫 How to reach me ... ig @mau3i3 
+- 📫 How to reach me ... trhu ig @mau3i3 twitter @4chanera 
 
 <!---
 4chanera/4chanera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
